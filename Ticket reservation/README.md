@@ -1,3 +1,5 @@
+# For educational purposes; check the target site's ToS before use; you are responsible for compliance
+
 # Train Ticket Reservation Bot (generic template)
 
 A Playwright-based bot that logs in, polls a train search page for
